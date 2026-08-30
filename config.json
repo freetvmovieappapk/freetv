@@ -1,0 +1,60 @@
+﻿{
+  "_comment": [
+    "This is the mutable brain. It lives in the GitHub repo root, NOT on the domain.",
+    "Edit it, push, and the change is live within a few minutes - no host access, no",
+    "APK rebuild. index.html on the domain never has to change again.",
+    "",
+    "assetVersion is the only cache control that matters. jsDelivr caches a branch URL",
+    "for up to 12 hours, so after pushing a new player.js or channels.json you MUST bump",
+    "assetVersion or clients will keep the old copy for half a day."
+  ],
+
+  "assetVersion": "1",
+
+  "playerPath": "player.js",
+  "channelsPath": "channels.json",
+  "moviesPath": "movies.json",
+
+  "notice": "",
+
+  "ads": {
+    "_comment": [
+      "enabled=false keeps ads completely off, so you can ship the site and apply to",
+      "networks before any ad code runs. Flip to true only once a zone is approved.",
+      "vastTag is the single line you paste from the HilltopAds dashboard.",
+      "",
+      "midRollMinutes: broadcast-normal is 8-15. Below 5 is how you get uninstalled.",
+      "idleMinutes: stop requesting ads after this long with no remote input. People",
+      "leave TV apps running in empty rooms, and billing an empty room is the exact",
+      "pattern that gets publisher accounts terminated. Do not raise this casually."
+    ],
+    "enabled": false,
+    "vastTag": "",
+    "modulePath": "freetv-ads.js",
+    "preRoll": false,
+    "midRollMinutes": 12,
+    "maxBreaksPerHour": 4,
+    "idleMinutes": 30,
+    "skipAfterSeconds": 5
+  },
+
+  "sources": {
+    "_comment": "Shown on /about.html. Keeping this honest and public is part of why a network approves the site.",
+    "list": [
+      "Pluto TV",
+      "Local Now",
+      "Samsung TV Plus",
+      "Plex",
+      "Tubi",
+      "Xumo",
+      "Stirr",
+      "Internet Archive (public domain film and TV)"
+    ]
+  },
+
+  "contact": {
+    "dmca": "dmca@example.com",
+    "general": "hello@example.com"
+  }
+}
+
