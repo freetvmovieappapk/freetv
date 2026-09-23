@@ -69,6 +69,20 @@ from its Settings screen.
 | `apk/FreeTV-TV-<ver>.apk` | Build for TV boxes (onn 4K, Fire TV, Google TV). |
 | `apk/FreeTV-Phone-<ver>.apk` | Build for phones/tablets. |
 | `CHANGELOG.md` | One entry per released version. |
+| `FreeTV.apk` | Always the newest build - the fixed link for a first install (see below). |
+
+## First install, or a box still on 9.4 or older (no Update button yet)
+
+Open this address once on the device (browser, or the "Downloader" app on a Fire TV) and install it:
+
+    https://raw.githubusercontent.com/freetvmovieappapk/freetv/main/FreeTV.apk
+
+Older boxes (Android 7.0 or older, older Fire TV sticks) cannot open that address - use:
+
+    https://cdn.jsdelivr.net/gh/freetvmovieappapk/freetv@main/FreeTV.apk
+
+It updates FreeTV in place (favourites and Continue Watching stay). From 9.5 on the app updates
+itself: Settings -> App version.
 
 The TV and Phone APKs are the **same universal build under two names** (the app detects a TV
 vs a touch screen at runtime). Their SHA-256 is identical on purpose — that is not a bug, and
