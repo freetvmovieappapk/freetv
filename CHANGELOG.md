@@ -1,5 +1,9 @@
 # FreeTV changelog
 
+## 10.0 (build 16) - 2026-10-04
+
+A fresh, easier-to-use design: a side menu you can always reach, bigger text, and your favorites and shows-in-progress right on the home screen. The phone app now works sideways, and search shows which titles can't be played for free.
+
 ## 9.6 (build 15) - 2026-09-23
 
 Settings - App version: the app now updates itself from GitHub (checks once a day, green dot when a new version is ready, never installs without OK; a one-time Allow step the first time). About 4,100 whole Pluto TV series with season and episode pickers, Next episode and resume; about 8,500 Pluto films; Pluto anime series in the Anime tab. Casting a Pluto channel no longer sends the taken-down screen. Many playback and remote fixes.

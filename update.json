@@ -1,24 +1,24 @@
 {
-  "updatedUtc": "2026-09-23T17:16:29Z",
+  "updatedUtc": "2026-10-05T00:12:33Z",
   "baseUrls": [
     "https://raw.githubusercontent.com/freetvmovieappapk/freetv/main/",
     "https://cdn.jsdelivr.net/gh/freetvmovieappapk/freetv@main/"
   ],
   "latest": {
-    "versionCode": 15,
-    "versionName": "9.6",
+    "versionCode": 16,
+    "versionName": "10.0",
     "minSdkVersion": 21,
     "mandatory": false,
-    "notes": "Settings - App version: the app now updates itself from GitHub (checks once a day, green dot when a new version is ready, never installs without OK; a one-time Allow step the first time). About 4,100 whole Pluto TV series with season and episode pickers, Next episode and resume; about 8,500 Pluto films; Pluto anime series in the Anime tab. Casting a Pluto channel no longer sends the taken-down screen. Many playback and remote fixes.",
+    "notes": "A fresh, easier-to-use design: a side menu you can always reach, bigger text, and your favorites and shows-in-progress right on the home screen. The phone app now works sideways, and search shows which titles can't be played for free.",
     "tv": {
-      "file": "apk/FreeTV-TV-9.6.apk",
-      "size": 2126739,
-      "sha256": "55abb0a2b4e5f543d540f38dc65991f2a6363d57852dc629d94acf1d3db210ad"
+      "file": "apk/FreeTV-TV-10.0.apk",
+      "size": 3646355,
+      "sha256": "cafff642b075fb6d086757004b62c63bfbf9e03747ae0c1cb8b09b546333b973"
     },
     "phone": {
-      "file": "apk/FreeTV-Phone-9.6.apk",
-      "size": 2126739,
-      "sha256": "55abb0a2b4e5f543d540f38dc65991f2a6363d57852dc629d94acf1d3db210ad"
+      "file": "apk/FreeTV-Phone-10.0.apk",
+      "size": 3646355,
+      "sha256": "cafff642b075fb6d086757004b62c63bfbf9e03747ae0c1cb8b09b546333b973"
     }
   }
 }
