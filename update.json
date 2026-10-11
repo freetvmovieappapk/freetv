@@ -1,24 +1,24 @@
 {
-  "updatedUtc": "2026-10-11T21:03:01Z",
+  "updatedUtc": "2026-10-11T21:43:45Z",
   "baseUrls": [
     "https://raw.githubusercontent.com/freetvmovieappapk/freetv/main/",
     "https://cdn.jsdelivr.net/gh/freetvmovieappapk/freetv@main/"
   ],
   "latest": {
-    "versionCode": 17,
-    "versionName": "10.1",
+    "versionCode": 18,
+    "versionName": "10.2",
     "minSdkVersion": 21,
     "mandatory": false,
-    "notes": "Dragon Ball and many more anime and movies now play, via an added MovieBox video source (used when the usual source doesn't carry a title). Titles that nothing can play are now hidden instead of showing 'Unavailable'. Fixed a startup issue that could make on-demand titles fail to load right after opening the app.",
+    "notes": "Anime now plays in English when a MovieBox English version exists - Dragon Ball and others were defaulting to the original (e.g. Japanese) audio. The app now always prefers the English dub.",
     "tv": {
-      "file": "apk/FreeTV-TV-10.1.apk",
+      "file": "apk/FreeTV-TV-10.2.apk",
       "size": 3654547,
-      "sha256": "6d8ca73469669b3ed3c6049b588b50b01c49636460a372521ec2408892b48369"
+      "sha256": "102bb4107232639c9e8606a582137995028cd88ab72ae1e90daf82ca61df6a88"
     },
     "phone": {
-      "file": "apk/FreeTV-Phone-10.1.apk",
+      "file": "apk/FreeTV-Phone-10.2.apk",
       "size": 3654547,
-      "sha256": "6d8ca73469669b3ed3c6049b588b50b01c49636460a372521ec2408892b48369"
+      "sha256": "102bb4107232639c9e8606a582137995028cd88ab72ae1e90daf82ca61df6a88"
     }
   }
 }

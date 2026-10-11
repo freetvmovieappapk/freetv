@@ -1,5 +1,9 @@
 # FreeTV changelog
 
+## 10.2 (build 18) - 2026-10-11
+
+Anime now plays in English when a MovieBox English version exists - Dragon Ball and others were defaulting to the original (e.g. Japanese) audio. The app now always prefers the English dub.
+
 ## 10.1 (build 17) - 2026-10-11
 
 Dragon Ball and many more anime and movies now play, via an added MovieBox video source (used when the usual source doesn't carry a title). Titles that nothing can play are now hidden instead of showing 'Unavailable'. Fixed a startup issue that could make on-demand titles fail to load right after opening the app.
