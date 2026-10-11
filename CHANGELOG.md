@@ -1,5 +1,9 @@
 # FreeTV changelog
 
+## 10.1 (build 17) - 2026-10-11
+
+Dragon Ball and many more anime and movies now play, via an added MovieBox video source (used when the usual source doesn't carry a title). Titles that nothing can play are now hidden instead of showing 'Unavailable'. Fixed a startup issue that could make on-demand titles fail to load right after opening the app.
+
 ## 10.0 (build 16) - 2026-10-04
 
 A fresh, easier-to-use design: a side menu you can always reach, bigger text, and your favorites and shows-in-progress right on the home screen. The phone app now works sideways, and search shows which titles can't be played for free.

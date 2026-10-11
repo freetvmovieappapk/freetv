@@ -1,24 +1,24 @@
 {
-  "updatedUtc": "2026-10-05T00:12:33Z",
+  "updatedUtc": "2026-10-11T21:03:01Z",
   "baseUrls": [
     "https://raw.githubusercontent.com/freetvmovieappapk/freetv/main/",
     "https://cdn.jsdelivr.net/gh/freetvmovieappapk/freetv@main/"
   ],
   "latest": {
-    "versionCode": 16,
-    "versionName": "10.0",
+    "versionCode": 17,
+    "versionName": "10.1",
     "minSdkVersion": 21,
     "mandatory": false,
-    "notes": "A fresh, easier-to-use design: a side menu you can always reach, bigger text, and your favorites and shows-in-progress right on the home screen. The phone app now works sideways, and search shows which titles can't be played for free.",
+    "notes": "Dragon Ball and many more anime and movies now play, via an added MovieBox video source (used when the usual source doesn't carry a title). Titles that nothing can play are now hidden instead of showing 'Unavailable'. Fixed a startup issue that could make on-demand titles fail to load right after opening the app.",
     "tv": {
-      "file": "apk/FreeTV-TV-10.0.apk",
-      "size": 3646355,
-      "sha256": "cafff642b075fb6d086757004b62c63bfbf9e03747ae0c1cb8b09b546333b973"
+      "file": "apk/FreeTV-TV-10.1.apk",
+      "size": 3654547,
+      "sha256": "6d8ca73469669b3ed3c6049b588b50b01c49636460a372521ec2408892b48369"
     },
     "phone": {
-      "file": "apk/FreeTV-Phone-10.0.apk",
-      "size": 3646355,
-      "sha256": "cafff642b075fb6d086757004b62c63bfbf9e03747ae0c1cb8b09b546333b973"
+      "file": "apk/FreeTV-Phone-10.1.apk",
+      "size": 3654547,
+      "sha256": "6d8ca73469669b3ed3c6049b588b50b01c49636460a372521ec2408892b48369"
     }
   }
 }
