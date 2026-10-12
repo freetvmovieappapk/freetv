@@ -1,5 +1,9 @@
 # FreeTV changelog
 
+## 10.3 (build 19) - 2026-10-11
+
+Fixes anime/movies (e.g. some Dragon Ball episodes) that would freeze or stop part-way through on the TV box. MovieBox videos now stream directly so the player handles long episodes reliably, instead of going through the local relay which could stall on slower devices.
+
 ## 10.2 (build 18) - 2026-10-11
 
 Anime now plays in English when a MovieBox English version exists - Dragon Ball and others were defaulting to the original (e.g. Japanese) audio. The app now always prefers the English dub.

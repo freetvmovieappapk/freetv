@@ -1,24 +1,24 @@
 {
-  "updatedUtc": "2026-10-11T21:43:45Z",
+  "updatedUtc": "2026-10-12T00:09:36Z",
   "baseUrls": [
     "https://raw.githubusercontent.com/freetvmovieappapk/freetv/main/",
     "https://cdn.jsdelivr.net/gh/freetvmovieappapk/freetv@main/"
   ],
   "latest": {
-    "versionCode": 18,
-    "versionName": "10.2",
+    "versionCode": 19,
+    "versionName": "10.3",
     "minSdkVersion": 21,
     "mandatory": false,
-    "notes": "Anime now plays in English when a MovieBox English version exists - Dragon Ball and others were defaulting to the original (e.g. Japanese) audio. The app now always prefers the English dub.",
+    "notes": "Fixes anime/movies (e.g. some Dragon Ball episodes) that would freeze or stop part-way through on the TV box. MovieBox videos now stream directly so the player handles long episodes reliably, instead of going through the local relay which could stall on slower devices.",
     "tv": {
-      "file": "apk/FreeTV-TV-10.2.apk",
+      "file": "apk/FreeTV-TV-10.3.apk",
       "size": 3654547,
-      "sha256": "102bb4107232639c9e8606a582137995028cd88ab72ae1e90daf82ca61df6a88"
+      "sha256": "f06eab71f919752beeee7b2f0ca615c4f43df9949e58445a12696e5a21659314"
     },
     "phone": {
-      "file": "apk/FreeTV-Phone-10.2.apk",
+      "file": "apk/FreeTV-Phone-10.3.apk",
       "size": 3654547,
-      "sha256": "102bb4107232639c9e8606a582137995028cd88ab72ae1e90daf82ca61df6a88"
+      "sha256": "f06eab71f919752beeee7b2f0ca615c4f43df9949e58445a12696e5a21659314"
     }
   }
 }
