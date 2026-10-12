@@ -1,5 +1,9 @@
 # FreeTV changelog
 
+## 10.4 (build 20) - 2026-10-11
+
+Weak/hotel Wi-Fi: videos that froze on a loading spinner now reconnect automatically and resume when the connection recovers, instead of hanging forever. Also fixes some anime (e.g. Dragon Ball Z) that showed 'no source found' - the app now falls back to an available version - and prefers the English dub when one exists.
+
 ## 10.3 (build 19) - 2026-10-11
 
 Fixes anime/movies (e.g. some Dragon Ball episodes) that would freeze or stop part-way through on the TV box. MovieBox videos now stream directly so the player handles long episodes reliably, instead of going through the local relay which could stall on slower devices.

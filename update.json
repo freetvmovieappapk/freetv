@@ -1,24 +1,24 @@
 {
-  "updatedUtc": "2026-10-12T00:09:36Z",
+  "updatedUtc": "2026-10-12T01:34:46Z",
   "baseUrls": [
     "https://raw.githubusercontent.com/freetvmovieappapk/freetv/main/",
     "https://cdn.jsdelivr.net/gh/freetvmovieappapk/freetv@main/"
   ],
   "latest": {
-    "versionCode": 19,
-    "versionName": "10.3",
+    "versionCode": 20,
+    "versionName": "10.4",
     "minSdkVersion": 21,
     "mandatory": false,
-    "notes": "Fixes anime/movies (e.g. some Dragon Ball episodes) that would freeze or stop part-way through on the TV box. MovieBox videos now stream directly so the player handles long episodes reliably, instead of going through the local relay which could stall on slower devices.",
+    "notes": "Weak/hotel Wi-Fi: videos that froze on a loading spinner now reconnect automatically and resume when the connection recovers, instead of hanging forever. Also fixes some anime (e.g. Dragon Ball Z) that showed 'no source found' - the app now falls back to an available version - and prefers the English dub when one exists.",
     "tv": {
-      "file": "apk/FreeTV-TV-10.3.apk",
+      "file": "apk/FreeTV-TV-10.4.apk",
       "size": 3654547,
-      "sha256": "f06eab71f919752beeee7b2f0ca615c4f43df9949e58445a12696e5a21659314"
+      "sha256": "4689ab96f8124d37578793db4639eeaa9498112c8ca353d1c3f383991a3cd5fa"
     },
     "phone": {
-      "file": "apk/FreeTV-Phone-10.3.apk",
+      "file": "apk/FreeTV-Phone-10.4.apk",
       "size": 3654547,
-      "sha256": "f06eab71f919752beeee7b2f0ca615c4f43df9949e58445a12696e5a21659314"
+      "sha256": "4689ab96f8124d37578793db4639eeaa9498112c8ca353d1c3f383991a3cd5fa"
     }
   }
 }
