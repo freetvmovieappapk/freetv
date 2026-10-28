@@ -1,24 +1,24 @@
 {
-  "updatedUtc": "2026-10-28T20:00:24Z",
+  "updatedUtc": "2026-10-28T20:02:14Z",
   "baseUrls": [
     "https://raw.githubusercontent.com/freetvmovieappapk/freetv/main/",
     "https://cdn.jsdelivr.net/gh/freetvmovieappapk/freetv@main/"
   ],
   "latest": {
-    "versionCode": 22,
-    "versionName": "10.6",
+    "versionCode": 23,
+    "versionName": "10.7",
     "minSdkVersion": 21,
     "mandatory": false,
-    "notes": "10.6 - Change source: movies & shows now have a source picker, pick Source 1 / Source 2 / Source 3 (with quality) and switch any time if one is bad. Plus the 200+ cdnlivetv channels from 10.5.",
+    "notes": "10.7 - source button simply labeled 'Source'.",
     "tv": {
-      "file": "apk/FreeTV-TV-10.6.apk",
+      "file": "apk/FreeTV-TV-10.7.apk",
       "size": 3658643,
-      "sha256": "93d57e1c455d96f3c0c19183eaab043053e9b6779f0abf411822032100de8ef6"
+      "sha256": "9f0ff4b291fcce7add504185bd47faea063f4faeb0ed0258d4531dfbc68e7bb4"
     },
     "phone": {
-      "file": "apk/FreeTV-Phone-10.6.apk",
+      "file": "apk/FreeTV-Phone-10.7.apk",
       "size": 3658643,
-      "sha256": "93d57e1c455d96f3c0c19183eaab043053e9b6779f0abf411822032100de8ef6"
+      "sha256": "9f0ff4b291fcce7add504185bd47faea063f4faeb0ed0258d4531dfbc68e7bb4"
     }
   }
 }
