@@ -1,5 +1,9 @@
 # FreeTV changelog
 
+## 11.0 (build 26) - 2026-10-28
+
+11.0 - BIG: live source config (kill-switch). The app reads config.json from GitHub each launch, so a dead/moved source can be fixed in seconds without a new app update. Plus Source picker on everything and ppv sports backups.
+
 ## 10.9 (build 25) - 2026-10-28
 
 10.9 - Source button now sits on the main player bar (replaced Settings, which is on the main menu) and shows on everything - movies, shows, anime. Pick Source 1/2/3 and switch any time; a bad pick always falls back to a working stream.

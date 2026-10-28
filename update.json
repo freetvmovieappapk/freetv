@@ -1,24 +1,24 @@
 {
-  "updatedUtc": "2026-10-28T20:33:57Z",
+  "updatedUtc": "2026-10-28T21:04:21Z",
   "baseUrls": [
     "https://raw.githubusercontent.com/freetvmovieappapk/freetv/main/",
     "https://cdn.jsdelivr.net/gh/freetvmovieappapk/freetv@main/"
   ],
   "latest": {
-    "versionCode": 25,
-    "versionName": "10.9",
+    "versionCode": 26,
+    "versionName": "11.0",
     "minSdkVersion": 21,
     "mandatory": false,
-    "notes": "10.9 - Source button now sits on the main player bar (replaced Settings, which is on the main menu) and shows on everything - movies, shows, anime. Pick Source 1/2/3 and switch any time; a bad pick always falls back to a working stream.",
+    "notes": "11.0 - BIG: live source config (kill-switch). The app reads config.json from GitHub each launch, so a dead/moved source can be fixed in seconds without a new app update. Plus Source picker on everything and ppv sports backups.",
     "tv": {
-      "file": "apk/FreeTV-TV-10.9.apk",
-      "size": 3658643,
-      "sha256": "f20516db83e0bfe73e73b0523f0c78ee4f65d901d50bac632a41b37fd2bdef72"
+      "file": "apk/FreeTV-TV-11.0.apk",
+      "size": 3662739,
+      "sha256": "d6f0cdaa1efe50b2e10b0a3563a6f22b72ac7e3c3a6deeeb6bbccfb735f8452b"
     },
     "phone": {
-      "file": "apk/FreeTV-Phone-10.9.apk",
-      "size": 3658643,
-      "sha256": "f20516db83e0bfe73e73b0523f0c78ee4f65d901d50bac632a41b37fd2bdef72"
+      "file": "apk/FreeTV-Phone-11.0.apk",
+      "size": 3662739,
+      "sha256": "d6f0cdaa1efe50b2e10b0a3563a6f22b72ac7e3c3a6deeeb6bbccfb735f8452b"
     }
   }
 }
