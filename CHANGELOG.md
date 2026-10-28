@@ -1,5 +1,9 @@
 # FreeTV changelog
 
+## 11.0 (build 27) - 2026-10-28
+
+11.0 - big update: live source kill-switch (fix dead sources with no app update); Source picker on everything incl anime (Source 1/2/3, switch anytime); anime now plays reliably via the movie servers; CC button with real subtitles you turn on/off; American sports listed first; now/next TV guide and auto-play-next episode.
+
 ## 11.0 (build 26) - 2026-10-28
 
 11.0 - BIG: live source config (kill-switch). The app reads config.json from GitHub each launch, so a dead/moved source can be fixed in seconds without a new app update. Plus Source picker on everything and ppv sports backups.
