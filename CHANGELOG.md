@@ -1,5 +1,9 @@
 # FreeTV changelog
 
+## 10.8 (build 24) - 2026-10-28
+
+10.8 - Live Sports now pulls in a second provider (ppv.st) for the SAME game, so the Source picker has real backup feeds when the first ones are flaky. Matched strictly by both team names.
+
 ## 10.7 (build 23) - 2026-10-28
 
 10.7 - source button simply labeled 'Source'.

@@ -1,24 +1,24 @@
 {
-  "updatedUtc": "2026-10-28T20:02:14Z",
+  "updatedUtc": "2026-10-28T20:13:05Z",
   "baseUrls": [
     "https://raw.githubusercontent.com/freetvmovieappapk/freetv/main/",
     "https://cdn.jsdelivr.net/gh/freetvmovieappapk/freetv@main/"
   ],
   "latest": {
-    "versionCode": 23,
-    "versionName": "10.7",
+    "versionCode": 24,
+    "versionName": "10.8",
     "minSdkVersion": 21,
     "mandatory": false,
-    "notes": "10.7 - source button simply labeled 'Source'.",
+    "notes": "10.8 - Live Sports now pulls in a second provider (ppv.st) for the SAME game, so the Source picker has real backup feeds when the first ones are flaky. Matched strictly by both team names.",
     "tv": {
-      "file": "apk/FreeTV-TV-10.7.apk",
+      "file": "apk/FreeTV-TV-10.8.apk",
       "size": 3658643,
-      "sha256": "9f0ff4b291fcce7add504185bd47faea063f4faeb0ed0258d4531dfbc68e7bb4"
+      "sha256": "e226e3bd3ad93675afab062d5e6e35e619f111a6a331e2919c67aae39737935d"
     },
     "phone": {
-      "file": "apk/FreeTV-Phone-10.7.apk",
+      "file": "apk/FreeTV-Phone-10.8.apk",
       "size": 3658643,
-      "sha256": "9f0ff4b291fcce7add504185bd47faea063f4faeb0ed0258d4531dfbc68e7bb4"
+      "sha256": "e226e3bd3ad93675afab062d5e6e35e619f111a6a331e2919c67aae39737935d"
     }
   }
 }
