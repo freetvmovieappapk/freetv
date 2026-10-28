@@ -1,24 +1,24 @@
 {
-  "updatedUtc": "2026-10-12T01:34:46Z",
+  "updatedUtc": "2026-10-28T19:42:06Z",
   "baseUrls": [
     "https://raw.githubusercontent.com/freetvmovieappapk/freetv/main/",
     "https://cdn.jsdelivr.net/gh/freetvmovieappapk/freetv@main/"
   ],
   "latest": {
-    "versionCode": 20,
-    "versionName": "10.4",
+    "versionCode": 21,
+    "versionName": "10.5",
     "minSdkVersion": 21,
     "mandatory": false,
-    "notes": "Weak/hotel Wi-Fi: videos that froze on a loading spinner now reconnect automatically and resume when the connection recovers, instead of hanging forever. Also fixes some anime (e.g. Dragon Ball Z) that showed 'no source found' - the app now falls back to an available version - and prefers the English dub when one exists.",
+    "notes": "10.5 - new Live TV: 200+ extra channels (cdnlivetv) that stream clean/ad-free via on-device sniffing. MovieBox hide-unavailable + English dubs + freeze recovery carried over from 10.4.",
     "tv": {
-      "file": "apk/FreeTV-TV-10.4.apk",
+      "file": "apk/FreeTV-TV-10.5.apk",
       "size": 3654547,
-      "sha256": "4689ab96f8124d37578793db4639eeaa9498112c8ca353d1c3f383991a3cd5fa"
+      "sha256": "6c57168e7101ed2e74a4fe856f95a8d6a5de67c476bfbca2698d37871f7fcc95"
     },
     "phone": {
-      "file": "apk/FreeTV-Phone-10.4.apk",
+      "file": "apk/FreeTV-Phone-10.5.apk",
       "size": 3654547,
-      "sha256": "4689ab96f8124d37578793db4639eeaa9498112c8ca353d1c3f383991a3cd5fa"
+      "sha256": "6c57168e7101ed2e74a4fe856f95a8d6a5de67c476bfbca2698d37871f7fcc95"
     }
   }
 }

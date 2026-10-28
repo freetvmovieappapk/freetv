@@ -1,5 +1,9 @@
 # FreeTV changelog
 
+## 10.5 (build 21) - 2026-10-28
+
+10.5 - new Live TV: 200+ extra channels (cdnlivetv) that stream clean/ad-free via on-device sniffing. MovieBox hide-unavailable + English dubs + freeze recovery carried over from 10.4.
+
 ## 10.4 (build 20) - 2026-10-11
 
 Weak/hotel Wi-Fi: videos that froze on a loading spinner now reconnect automatically and resume when the connection recovers, instead of hanging forever. Also fixes some anime (e.g. Dragon Ball Z) that showed 'no source found' - the app now falls back to an available version - and prefers the English dub when one exists.
