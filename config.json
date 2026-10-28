@@ -1,4 +1,4 @@
-{
+﻿{
   "updatedUtc": "2026-10-28T21:00:00Z",
   "note": "Live source config for FreeTV. Edit an endpoint and push to fix a moved/dead source WITHOUT shipping a new APK (devices re-read this every launch). 'disable' turns a source off by key: vix, moviebox, alt, ppv, cdnlive. Anything omitted keeps the app's baked default; if this file is unreachable the app runs entirely on its defaults.",
   "endpoints": {
@@ -10,5 +10,5 @@
     "filmzie": "https://filmzie.com/api/v1",
     "cdnlive": "https://api.cdnlivetv.tv/api/v1/channels/?user=cdnlivetv&plan=free"
   },
-  "disable": []
+  "disable": ["moviebox"]
 }
