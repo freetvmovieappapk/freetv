@@ -8,7 +8,8 @@
     "mbox": "https://tv.aoneroom.com",
     "faw": "https://rapi.ifood.tv",
     "filmzie": "https://filmzie.com/api/v1",
-    "cdnlive": "https://api.cdnlivetv.tv/api/v1/channels/?user=cdnlivetv&plan=free"
+    "cdnlive": "https://api.cdnlivetv.tv/api/v1/channels/?user=cdnlivetv&plan=free",
+    "subs": "https://subs.bright67.online"
   },
   "disable": []
 }
