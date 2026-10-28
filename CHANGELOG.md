@@ -1,5 +1,9 @@
 # FreeTV changelog
 
+## 10.9 (build 25) - 2026-10-28
+
+10.9 - Source button now sits on the main player bar (replaced Settings, which is on the main menu) and shows on everything - movies, shows, anime. Pick Source 1/2/3 and switch any time; a bad pick always falls back to a working stream.
+
 ## 10.8 (build 24) - 2026-10-28
 
 10.8 - Live Sports now pulls in a second provider (ppv.st) for the SAME game, so the Source picker has real backup feeds when the first ones are flaky. Matched strictly by both team names.

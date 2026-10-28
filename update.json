@@ -1,24 +1,24 @@
 {
-  "updatedUtc": "2026-10-28T20:13:05Z",
+  "updatedUtc": "2026-10-28T20:33:57Z",
   "baseUrls": [
     "https://raw.githubusercontent.com/freetvmovieappapk/freetv/main/",
     "https://cdn.jsdelivr.net/gh/freetvmovieappapk/freetv@main/"
   ],
   "latest": {
-    "versionCode": 24,
-    "versionName": "10.8",
+    "versionCode": 25,
+    "versionName": "10.9",
     "minSdkVersion": 21,
     "mandatory": false,
-    "notes": "10.8 - Live Sports now pulls in a second provider (ppv.st) for the SAME game, so the Source picker has real backup feeds when the first ones are flaky. Matched strictly by both team names.",
+    "notes": "10.9 - Source button now sits on the main player bar (replaced Settings, which is on the main menu) and shows on everything - movies, shows, anime. Pick Source 1/2/3 and switch any time; a bad pick always falls back to a working stream.",
     "tv": {
-      "file": "apk/FreeTV-TV-10.8.apk",
+      "file": "apk/FreeTV-TV-10.9.apk",
       "size": 3658643,
-      "sha256": "e226e3bd3ad93675afab062d5e6e35e619f111a6a331e2919c67aae39737935d"
+      "sha256": "f20516db83e0bfe73e73b0523f0c78ee4f65d901d50bac632a41b37fd2bdef72"
     },
     "phone": {
-      "file": "apk/FreeTV-Phone-10.8.apk",
+      "file": "apk/FreeTV-Phone-10.9.apk",
       "size": 3658643,
-      "sha256": "e226e3bd3ad93675afab062d5e6e35e619f111a6a331e2919c67aae39737935d"
+      "sha256": "f20516db83e0bfe73e73b0523f0c78ee4f65d901d50bac632a41b37fd2bdef72"
     }
   }
 }
