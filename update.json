@@ -1,24 +1,24 @@
 {
-  "updatedUtc": "2026-10-28T19:42:06Z",
+  "updatedUtc": "2026-10-28T20:00:24Z",
   "baseUrls": [
     "https://raw.githubusercontent.com/freetvmovieappapk/freetv/main/",
     "https://cdn.jsdelivr.net/gh/freetvmovieappapk/freetv@main/"
   ],
   "latest": {
-    "versionCode": 21,
-    "versionName": "10.5",
+    "versionCode": 22,
+    "versionName": "10.6",
     "minSdkVersion": 21,
     "mandatory": false,
-    "notes": "10.5 - new Live TV: 200+ extra channels (cdnlivetv) that stream clean/ad-free via on-device sniffing. MovieBox hide-unavailable + English dubs + freeze recovery carried over from 10.4.",
+    "notes": "10.6 - Change source: movies & shows now have a source picker, pick Source 1 / Source 2 / Source 3 (with quality) and switch any time if one is bad. Plus the 200+ cdnlivetv channels from 10.5.",
     "tv": {
-      "file": "apk/FreeTV-TV-10.5.apk",
-      "size": 3654547,
-      "sha256": "6c57168e7101ed2e74a4fe856f95a8d6a5de67c476bfbca2698d37871f7fcc95"
+      "file": "apk/FreeTV-TV-10.6.apk",
+      "size": 3658643,
+      "sha256": "93d57e1c455d96f3c0c19183eaab043053e9b6779f0abf411822032100de8ef6"
     },
     "phone": {
-      "file": "apk/FreeTV-Phone-10.5.apk",
-      "size": 3654547,
-      "sha256": "6c57168e7101ed2e74a4fe856f95a8d6a5de67c476bfbca2698d37871f7fcc95"
+      "file": "apk/FreeTV-Phone-10.6.apk",
+      "size": 3658643,
+      "sha256": "93d57e1c455d96f3c0c19183eaab043053e9b6779f0abf411822032100de8ef6"
     }
   }
 }

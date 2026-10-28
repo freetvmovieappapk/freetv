@@ -1,5 +1,9 @@
 # FreeTV changelog
 
+## 10.6 (build 22) - 2026-10-28
+
+10.6 - Change source: movies & shows now have a source picker, pick Source 1 / Source 2 / Source 3 (with quality) and switch any time if one is bad. Plus the 200+ cdnlivetv channels from 10.5.
+
 ## 10.5 (build 21) - 2026-10-28
 
 10.5 - new Live TV: 200+ extra channels (cdnlivetv) that stream clean/ad-free via on-device sniffing. MovieBox hide-unavailable + English dubs + freeze recovery carried over from 10.4.
