@@ -1,24 +1,24 @@
 {
-  "updatedUtc": "2026-11-27T14:12:17Z",
+  "updatedUtc": "2026-11-27T14:34:23Z",
   "baseUrls": [
     "https://raw.githubusercontent.com/freetvmovieappapk/freetv/main/",
     "https://cdn.jsdelivr.net/gh/freetvmovieappapk/freetv@main/"
   ],
   "latest": {
-    "versionCode": 30,
-    "versionName": "11.3",
+    "versionCode": 31,
+    "versionName": "11.4",
     "minSdkVersion": 21,
     "mandatory": false,
-    "notes": "11.3 - Live Sports is back: the old sports source shut down, so games and sport channels now come from a new provider and list again.",
+    "notes": "11.4 - Live Sports opens faster: games now bring up the player in a few seconds instead of a long wait.",
     "tv": {
-      "file": "apk/FreeTV-TV-11.3.apk",
+      "file": "apk/FreeTV-TV-11.4.apk",
       "size": 3666835,
-      "sha256": "e88f210c609836da9ec01e152ca8d4cd4c612c9654bd7cabcb1777e2f0ca9f92"
+      "sha256": "b61737d6f2c4d6e0d7d9833b6bc1b756ce4896841400b91e8c897e2b34486587"
     },
     "phone": {
-      "file": "apk/FreeTV-Phone-11.3.apk",
+      "file": "apk/FreeTV-Phone-11.4.apk",
       "size": 3666835,
-      "sha256": "e88f210c609836da9ec01e152ca8d4cd4c612c9654bd7cabcb1777e2f0ca9f92"
+      "sha256": "b61737d6f2c4d6e0d7d9833b6bc1b756ce4896841400b91e8c897e2b34486587"
     }
   }
 }

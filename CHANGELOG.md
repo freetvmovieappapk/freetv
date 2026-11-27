@@ -1,5 +1,9 @@
 # FreeTV changelog
 
+## 11.4 (build 31) - 2026-11-27
+
+11.4 - Live Sports opens faster: games now bring up the player in a few seconds instead of a long wait.
+
 ## 11.3 (build 30) - 2026-11-27
 
 11.3 - Live Sports is back: the old sports source shut down, so games and sport channels now come from a new provider and list again.
