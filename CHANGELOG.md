@@ -1,5 +1,9 @@
 # FreeTV changelog
 
+## 11.5 (build 32) - 2026-11-27
+
+11.5 - New Live TV: a cable-style program guide. Channels down the side, show times across the top - see what's on now and what's next, and press OK to watch.
+
 ## 11.4 (build 31) - 2026-11-27
 
 11.4 - Live Sports opens faster: games now bring up the player in a few seconds instead of a long wait.

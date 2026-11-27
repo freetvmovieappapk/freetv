@@ -1,24 +1,24 @@
 {
-  "updatedUtc": "2026-11-27T14:34:23Z",
+  "updatedUtc": "2026-11-27T16:29:02Z",
   "baseUrls": [
     "https://raw.githubusercontent.com/freetvmovieappapk/freetv/main/",
     "https://cdn.jsdelivr.net/gh/freetvmovieappapk/freetv@main/"
   ],
   "latest": {
-    "versionCode": 31,
-    "versionName": "11.4",
+    "versionCode": 32,
+    "versionName": "11.5",
     "minSdkVersion": 21,
     "mandatory": false,
-    "notes": "11.4 - Live Sports opens faster: games now bring up the player in a few seconds instead of a long wait.",
+    "notes": "11.5 - New Live TV: a cable-style program guide. Channels down the side, show times across the top - see what's on now and what's next, and press OK to watch.",
     "tv": {
-      "file": "apk/FreeTV-TV-11.4.apk",
-      "size": 3666835,
-      "sha256": "b61737d6f2c4d6e0d7d9833b6bc1b756ce4896841400b91e8c897e2b34486587"
+      "file": "apk/FreeTV-TV-11.5.apk",
+      "size": 3670931,
+      "sha256": "a47b2962a261cba7cada29dd895354bc1d7193c360e874cbfe1fb635ab345746"
     },
     "phone": {
-      "file": "apk/FreeTV-Phone-11.4.apk",
-      "size": 3666835,
-      "sha256": "b61737d6f2c4d6e0d7d9833b6bc1b756ce4896841400b91e8c897e2b34486587"
+      "file": "apk/FreeTV-Phone-11.5.apk",
+      "size": 3670931,
+      "sha256": "a47b2962a261cba7cada29dd895354bc1d7193c360e874cbfe1fb635ab345746"
     }
   }
 }
