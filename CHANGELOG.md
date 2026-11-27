@@ -1,5 +1,9 @@
 # FreeTV changelog
 
+## 11.1 (build 28) - 2026-11-26
+
+11.1 - added a new movies & TV show source so more titles play, and restored titles that had stopped loading.
+
 ## 11.0 (build 27) - 2026-10-28
 
 11.0 - big update: live source kill-switch (fix dead sources with no app update); Source picker on everything incl anime (Source 1/2/3, switch anytime); anime now plays reliably via the movie servers; CC button with real subtitles you turn on/off; American sports listed first; now/next TV guide and auto-play-next episode.

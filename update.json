@@ -1,24 +1,24 @@
 {
-  "updatedUtc": "2026-10-28T21:29:41Z",
+  "updatedUtc": "2026-11-27T01:35:06Z",
   "baseUrls": [
     "https://raw.githubusercontent.com/freetvmovieappapk/freetv/main/",
     "https://cdn.jsdelivr.net/gh/freetvmovieappapk/freetv@main/"
   ],
   "latest": {
-    "versionCode": 27,
-    "versionName": "11.0",
+    "versionCode": 28,
+    "versionName": "11.1",
     "minSdkVersion": 21,
     "mandatory": false,
-    "notes": "11.0 - big update: live source kill-switch (fix dead sources with no app update); Source picker on everything incl anime (Source 1/2/3, switch anytime); anime now plays reliably via the movie servers; CC button with real subtitles you turn on/off; American sports listed first; now/next TV guide and auto-play-next episode.",
+    "notes": "11.1 - added a new movies & TV show source so more titles play, and restored titles that had stopped loading.",
     "tv": {
-      "file": "apk/FreeTV-TV-11.0.apk",
+      "file": "apk/FreeTV-TV-11.1.apk",
       "size": 3662739,
-      "sha256": "0ff2aaba4dd2681f2f8a5598c8c8625f00794b942e4c21b2790ca97725de1d51"
+      "sha256": "9d5b054e4371769b8994808c5f03a07c22163fbec3bfb7f4b808816ebedeebd0"
     },
     "phone": {
-      "file": "apk/FreeTV-Phone-11.0.apk",
+      "file": "apk/FreeTV-Phone-11.1.apk",
       "size": 3662739,
-      "sha256": "0ff2aaba4dd2681f2f8a5598c8c8625f00794b942e4c21b2790ca97725de1d51"
+      "sha256": "9d5b054e4371769b8994808c5f03a07c22163fbec3bfb7f4b808816ebedeebd0"
     }
   }
 }
