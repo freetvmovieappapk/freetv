@@ -1,5 +1,9 @@
 # FreeTV changelog
 
+## 11.6 (build 33) - 2026-11-27
+
+11.6 - The Live TV program guide is now on phones too: swipe through channels and show times, tap a program to watch.
+
 ## 11.5 (build 32) - 2026-11-27
 
 11.5 - New Live TV: a cable-style program guide. Channels down the side, show times across the top - see what's on now and what's next, and press OK to watch.

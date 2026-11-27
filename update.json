@@ -1,24 +1,24 @@
 {
-  "updatedUtc": "2026-11-27T16:29:02Z",
+  "updatedUtc": "2026-11-27T16:54:09Z",
   "baseUrls": [
     "https://raw.githubusercontent.com/freetvmovieappapk/freetv/main/",
     "https://cdn.jsdelivr.net/gh/freetvmovieappapk/freetv@main/"
   ],
   "latest": {
-    "versionCode": 32,
-    "versionName": "11.5",
+    "versionCode": 33,
+    "versionName": "11.6",
     "minSdkVersion": 21,
     "mandatory": false,
-    "notes": "11.5 - New Live TV: a cable-style program guide. Channels down the side, show times across the top - see what's on now and what's next, and press OK to watch.",
+    "notes": "11.6 - The Live TV program guide is now on phones too: swipe through channels and show times, tap a program to watch.",
     "tv": {
-      "file": "apk/FreeTV-TV-11.5.apk",
+      "file": "apk/FreeTV-TV-11.6.apk",
       "size": 3670931,
-      "sha256": "a47b2962a261cba7cada29dd895354bc1d7193c360e874cbfe1fb635ab345746"
+      "sha256": "60ceaf0aa1d80da5e0517518b29119387b3e4462077f23beb47991a39dde6cb2"
     },
     "phone": {
-      "file": "apk/FreeTV-Phone-11.5.apk",
+      "file": "apk/FreeTV-Phone-11.6.apk",
       "size": 3670931,
-      "sha256": "a47b2962a261cba7cada29dd895354bc1d7193c360e874cbfe1fb635ab345746"
+      "sha256": "60ceaf0aa1d80da5e0517518b29119387b3e4462077f23beb47991a39dde6cb2"
     }
   }
 }
