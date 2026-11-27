@@ -1,5 +1,9 @@
 # FreeTV changelog
 
+## 11.3 (build 30) - 2026-11-27
+
+11.3 - Live Sports is back: the old sports source shut down, so games and sport channels now come from a new provider and list again.
+
 ## 11.2 (build 29) - 2026-11-26
 
 11.2 - fixes movies and shows that would not play (a dead source was blocking the others); added a new movie and TV source so more titles work.
