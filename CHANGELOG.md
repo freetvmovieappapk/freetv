@@ -1,5 +1,9 @@
 # FreeTV changelog
 
+## 11.2 (build 29) - 2026-11-26
+
+11.2 - fixes movies and shows that would not play (a dead source was blocking the others); added a new movie and TV source so more titles work.
+
 ## 11.1 (build 28) - 2026-11-26
 
 11.1 - added a new movies & TV show source so more titles play, and restored titles that had stopped loading.

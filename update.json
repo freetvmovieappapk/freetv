@@ -1,24 +1,24 @@
 {
-  "updatedUtc": "2026-11-27T01:35:06Z",
+  "updatedUtc": "2026-11-27T02:19:03Z",
   "baseUrls": [
     "https://raw.githubusercontent.com/freetvmovieappapk/freetv/main/",
     "https://cdn.jsdelivr.net/gh/freetvmovieappapk/freetv@main/"
   ],
   "latest": {
-    "versionCode": 28,
-    "versionName": "11.1",
+    "versionCode": 29,
+    "versionName": "11.2",
     "minSdkVersion": 21,
     "mandatory": false,
-    "notes": "11.1 - added a new movies & TV show source so more titles play, and restored titles that had stopped loading.",
+    "notes": "11.2 - fixes movies and shows that would not play (a dead source was blocking the others); added a new movie and TV source so more titles work.",
     "tv": {
-      "file": "apk/FreeTV-TV-11.1.apk",
+      "file": "apk/FreeTV-TV-11.2.apk",
       "size": 3662739,
-      "sha256": "9d5b054e4371769b8994808c5f03a07c22163fbec3bfb7f4b808816ebedeebd0"
+      "sha256": "a94948046c245ea4fe0d2043ae557ae5135129dc892af1e9b4d33cc30fc99c07"
     },
     "phone": {
-      "file": "apk/FreeTV-Phone-11.1.apk",
+      "file": "apk/FreeTV-Phone-11.2.apk",
       "size": 3662739,
-      "sha256": "9d5b054e4371769b8994808c5f03a07c22163fbec3bfb7f4b808816ebedeebd0"
+      "sha256": "a94948046c245ea4fe0d2043ae557ae5135129dc892af1e9b4d33cc30fc99c07"
     }
   }
 }
